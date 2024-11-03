@@ -1,0 +1,17 @@
+W:\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\appsettings.Development.json
+W:\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\appsettings.json
+W:\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\bower.json
+W:\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\bundleconfig.json
+W:\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.deps.json
+W:\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.json
+W:\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.dev.json
+W:\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.dll
+W:\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.pdb
+W:\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csproj.AssemblyReference.cache
+W:\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.GeneratedMSBuildEditorConfig.editorconfig
+W:\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfoInputs.cache
+W:\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfo.cs
+W:\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csproj.CoreCompileInputs.cache
+W:\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.dll
+W:\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.pdb
+W:\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.genruntimeconfig.cache

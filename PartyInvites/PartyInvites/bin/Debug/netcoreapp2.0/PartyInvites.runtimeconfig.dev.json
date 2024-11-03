@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\DIMOOON\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\DIMOOON\\.nuget\\packages"
+    ]
+  }
+}
